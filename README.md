@@ -1,7 +1,8 @@
 # DuetAI Playbooks
 
-`Playbooks for DuetAI assisted use-cases on Google Cloud`
+`Blueprints for DuetAI assisted use-cases on Google Cloud`
 
+[![DuetAI](https://img.shields.io/badge/DuetAI-Official%20Documentation-purple.svg)](https://cloud.google.com/duet-ai/docs)
 
 
 
@@ -13,3 +14,5 @@ ___
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 <br><sub><sup>
 [Digital Millennium Copyright Act (DMCA) Notice](https://github.com/BINPIPE/resources/blob/master/dmca.md) <br>
+
+
