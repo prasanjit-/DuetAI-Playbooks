@@ -1,12 +1,15 @@
 # Duet AI Playbooks
 
-`Blueprints for Duet AI assisted use-cases on Google Cloud.`
-
-[![DuetAI](https://img.shields.io/badge/DuetAI-Official%20Documentation-purple.svg)](https://cloud.google.com/duet-ai/docs)
-
-| Colored Strip |
+| Blueprints for Duet AI assisted use-cases on Google Cloud |
 | ------------- |
 
+[![Reference](https://img.shields.io/badge/Reference-DuetAI%20Official%20Documentation-purple.svg)](https://cloud.google.com/duet-ai/docs)
+
+
+
+```diff
++ Develop & Deploy a Python App on Cloud Run +
+```
 
 
 
