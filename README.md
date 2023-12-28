@@ -1,8 +1,11 @@
-# DuetAI Playbooks
+# Duet AI Playbooks
 
-`Blueprints for DuetAI assisted use-cases on Google Cloud`
+`Blueprints for Duet AI assisted use-cases on Google Cloud.`
 
 [![DuetAI](https://img.shields.io/badge/DuetAI-Official%20Documentation-purple.svg)](https://cloud.google.com/duet-ai/docs)
+
+| Colored Strip |
+| ------------- |
 
 
 
